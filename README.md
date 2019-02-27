@@ -1,3 +1,8 @@
+# FaustSuperDirt
+This is an experimental fork of the SuperDirt engine that replaces key funcitonality with supercollider externals written in faust. This is in no way meant to replace superdirt but rather serve as a test ground for reimplementing the dirt engine in faust. A faust implementation of Dirt would allow greater portability of tidal's sound engine and provide a consistent experience across platforms (web,embedded,android,ios,mac,linux,windows,raspbian, ect...). 
+
+below is the original read me.
+
 # SuperDirt 1.0-dev
 SuperCollider implementation of the Dirt sampler for the Tidal programming language
 
